@@ -265,6 +265,7 @@ A curated list of awesome resources, learning materials, tools, frameworks, plat
   * [Project: A Programming Language](http://eloquentjavascript.net/11_language.html) - Chapter 11 from the book _Eloquent JavaScript_, 2nd Edition.
   * [Write You a Haskell](http://dev.stephendiehl.com/fun/).
   * [Writing a Language in Truffel](http://cesquivias.github.io/tags/truffle.html) - Interpreter development tutorial using Truffel, by Cristian Esquivias.
+  * [Compiling a Lisp](https://bernsteinbear.com/blog/compiling-a-lisp-0/) - Lisp to x86-64 machine code compiler in C
 
 
 ### Community Discussions
